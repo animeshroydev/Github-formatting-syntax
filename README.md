@@ -21,4 +21,9 @@ For example:
 Adding ing links:
 This is [Google Search](https://www.google.com) webpage.
 
+Lists:
+* Git commit
+* Git push
+* Git clone
+
 
