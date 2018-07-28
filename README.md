@@ -41,7 +41,7 @@ Checkboxes:
 - [ ] Task uncomplete
 - [ ] Task uncomplete
 
-Add emoji:
+Add emoji: [Emoji Cheat Sheet and Code](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 :+1:
 :shipit:
 :blush:
