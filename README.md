@@ -46,3 +46,5 @@ Add emoji: [Emoji Cheat Sheet and Code](https://www.webpagefx.com/tools/emoji-ch
 :shipit:
 :blush:
 
+_Now I will show you a trick how to add image in README_
+
