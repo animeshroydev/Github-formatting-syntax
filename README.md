@@ -19,6 +19,6 @@ For example:
 `git push`
 
 Adding ing links:
-This is [Google Search] (https://wwww.google.com) webpage.
+This is [Google Search](https://wwww.google.com) webpage.
 
 
