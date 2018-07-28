@@ -26,4 +26,9 @@ Lists:
 * Git push
 * Git clone
 
+Number List:
+1. git push
+2. git status
+3. git clone
+
 
