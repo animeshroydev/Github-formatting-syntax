@@ -4,6 +4,7 @@
 ### The smallest heading (### before text)
 In this video I will show you how you can format text in Github README...(This is just simple text)
 
-**This is bold text**
+**This is bold text** (Wrap text with in ** **)
 
-*This is italics* _This is also italics_
+*This is italics* _This is also italics_ (Wrap text with in * * or _ _)
+
