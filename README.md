@@ -49,5 +49,7 @@ Add emoji: [Emoji Cheat Sheet and Code](https://www.webpagefx.com/tools/emoji-ch
 _Now I will show you a trick how to add image in README_
 ![virgos love to help others](https://user-images.githubusercontent.com/35850688/43358924-5fc87566-92bb-11e8-8e82-b3aa696aeca1.png)
 
+You can Also refer to an cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
+
 
 
