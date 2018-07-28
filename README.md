@@ -8,3 +8,7 @@ In this video I will show you how you can format text in Github README...(This i
 
 *This is italics* _This is also italics_ (Wrap text with in * * or _ _)
 
+> Quoting Text (use > before text)
+
+I showed you how to `Quoting Code`.
+
