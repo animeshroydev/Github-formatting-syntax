@@ -35,4 +35,9 @@ Nested List:
 1. First line
    * Second Line
      * Third line
+     
+Checkboxes:
+- [x] Task complete
+- [ ] Task uncomplete
+- [ ] Task uncomplete
 
