@@ -41,3 +41,7 @@ Checkboxes:
 - [ ] Task uncomplete
 - [ ] Task uncomplete
 
+Add emoji:
+:+1:
+:shipit:
+
