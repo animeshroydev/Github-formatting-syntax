@@ -10,5 +10,5 @@ In this video I will show you how you can format text in Github README...(This i
 
 > Quoting Text (use > before text)
 
-I showed you how to `Quoting Code` (used ` ` button near(left) 1 button).
+`I showed you how to Quoting Code (used ` ` button near(left) 1 button).`
 
